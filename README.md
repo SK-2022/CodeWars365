@@ -1,2 +1,2 @@
 # CodeWars365
-Coding challenges from code war done to sharpen my skills
+Coding challenges from code wars done to sharpen my skills
